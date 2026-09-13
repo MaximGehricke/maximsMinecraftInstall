@@ -1,0 +1,12 @@
+minecraft 1.18.2  -  install via official Minecraft Launcher
+forge install - forge-1.18.2-40.0.52-installer.jar in this folder
+
+hit Win+R keys, type "%APPDATA%" (without quotes) - this brings you to AppData/Roaming/
+copy the .minecraft folder in this archive to "C:\Users\yourUsername\AppData\Roaming\"
+
+start minecraft, add a server with the current IP
+
+You will find the current IP in the "minecraft-server" text channel on Maxims Discord server
+If it doesn't work, send me a message. Maybe the server is not running yet, or the IP has changed recently.
+
+
