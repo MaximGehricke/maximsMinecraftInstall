@@ -4,7 +4,7 @@ DOWNLOAD:
 - extract
 
 
-FIRST TIME JOINING THE SERVER?
+>> FIRST TIME JOINING THE SERVER?
 >> minecraft java 1.18.2  -  install via official Minecraft Launcher (you can also use the prism launcher which is a bit faster and less prone to issues: https://prismlauncher.org/
 >> forge install - forge-1.18.2-40.0.52-installer.jar in the downloaded zip
 
